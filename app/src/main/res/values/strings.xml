@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Link Note</string>
+    <string name="need_some_help">Need some help?</string>
+    <string name="getting_started">Getting Started</string>
+    <string name="create_account_to_continue">Create account to continue</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+</resources>
